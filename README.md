@@ -133,8 +133,6 @@ screenshots:-
 
 Project vedio:-
 -
-Drive link:-
-https://drive.google.com/drive/u/0/folders/1VMveH4VqvG3Y7vpCsXR6_BGJPCfwnCZY
-
+https://drive.google.com/file/d/1kOlLdHoRa-kM29e9mHh4Ex4_cnsTuj1z/view?usp=drive_link
 
     
