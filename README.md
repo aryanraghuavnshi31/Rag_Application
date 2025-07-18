@@ -131,5 +131,10 @@ screenshots:-
 <img width="1360" height="720" alt="image" src="https://github.com/user-attachments/assets/8e48de96-6053-41a2-b28b-c335a4b03606" />
 
 
+Project vedio:-
+-
+Drive link:-
+
+
 
     
