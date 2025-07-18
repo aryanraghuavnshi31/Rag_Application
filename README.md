@@ -1,2 +1,4 @@
-# RAG_Application
-School RAG Chatbot (LangChain + OpenRouter + MySQL)  This is a Retrieval-Augmented Generation (RAG) based chatbot application built using LangChain, OpenRouter's LLM, and a MySQL-backed school database.  The chatbot allows users to ask natural language questions
+This project is a School Chatbot built using a Retrieval-Augmented Generation (RAG) approach.
+It combines LangChain, OpenRouter (GPT-3.5), and a MySQL database to allow users to ask natural language questions and get live answers from structured school data.
+
+The chatbot runs inside a clean, interactive Streamlit web UI, making it suitable for real-world usage or academic submission.
